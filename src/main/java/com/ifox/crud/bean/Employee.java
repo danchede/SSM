@@ -11,6 +11,9 @@ public class Employee {
 
     private Integer dId;
 
+    public Employee(Object o, String uid, String m, String s, int i) {
+    }
+
     public Integer getEmpId() {
         return empId;
     }
